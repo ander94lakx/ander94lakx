@@ -14,6 +14,12 @@ You will find a variety of things like:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+#### [Sobre mí](https://ander94lakx.github.io/pages/about/) 
+*Como habrás podido comprobar, me llamo Ander Granado. Soy ingeniero informático, desarrollador de software y hacker. Este es mi blog, en el…*
+#### [No title](https://ander94lakx.github.io/pages/pgp/) 
+**
+#### [Cómo automatizar la búsqueda de piso con un bot de Telegram](https://ander94lakx.github.io/blog/2022-02-05-bot-telegram-buscar-piso/) 
+*Estoy buscando piso y es un proceso de mierda. Hay una cantidad extrañamente escasa de pisos en mi ciudad y los que hay desaparecen…*
 <!--END_SECTION:feed-->
 
 <!--

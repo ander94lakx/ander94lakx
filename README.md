@@ -11,6 +11,11 @@ You will find a variety of things like:
 - Scritps and resources that I use about hacking and reversing stuff.
 - My [blog](https://ander94lakx.github.io), which I use to post about the things I'm doing.
 
+### 📙 Blog Posts
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 <!--
 
 ### What I stand for here?

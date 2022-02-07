@@ -1,0 +1,20 @@
+name: Update readme with blog posts
+# on: 
+  # schedule:
+    # Once a day at 8 AM
+    # - cron: 0 8 * * *
+on:
+  push:
+    branches: [ master ]
+
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: https://ander94lakx.github.io/rss
+          readme-section: feed
+          max: 3 # max number of items (default 5)
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"

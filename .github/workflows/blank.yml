@@ -1,11 +1,8 @@
 name: Update readme with blog posts
-# on: 
-  # schedule:
+on: 
+  schedule:
     # Once a day at 8 AM
-    # - cron: 0 8 * * *
-on:
-  push:
-    branches: [ master ]
+    - cron: 0 8 * * *
 
 
 jobs:

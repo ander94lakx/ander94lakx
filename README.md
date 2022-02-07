@@ -16,12 +16,12 @@ You will find a variety of things like:
 ### Blog Posts 📰
 
 <!--START_SECTION:feed-->
-#### [Sobre mí](https://ander94lakx.github.io/pages/about/) 
-*Como habrás podido comprobar, me llamo Ander Granado. Soy ingeniero informático, desarrollador de software y hacker. Este es mi blog, en el…*
-#### [No title](https://ander94lakx.github.io/pages/pgp/) 
-**
 #### [Cómo automatizar la búsqueda de piso con un bot de Telegram](https://ander94lakx.github.io/blog/2022-02-05-bot-telegram-buscar-piso/) 
 *Estoy buscando piso y es un proceso de mierda. Hay una cantidad extrañamente escasa de pisos en mi ciudad y los que hay desaparecen…*
+#### [Pwnkit: Vulnerabilidad en Polkit (CVE-2021-4034) en 5 minutos](https://ander94lakx.github.io/blog/2022-01-29-polkit/) 
+*Otro nuevo CVE de los que han dado que hablar. El CVE-2021-4034 salió a la luz hace unos días y se ha esparcido como la pólvora. No es que…*
+#### [Análisis de malware (I): cómo empezar a analizar malware](https://ander94lakx.github.io/blog/2022-01-26-malware-analysis-1/) 
+*Estamos rodeados por malware. Todo el mundo ha tenido alguna vez un problema con algún tipo de virus o al menos conoce a alguien que lo haya…*
 <!--END_SECTION:feed-->
 
 <!--

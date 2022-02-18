@@ -9,7 +9,7 @@ You will find a variety of things like:
 - Projects and notes that I made during my studies, such as my [Final Year Project](https://github.com/ander94lakx/TFG_Doc) or my [Master's Degree Thesis](https://github.com/ander94lakx/TFM_Doc).
 - Programming projects I'm tinkering with.
 - Scritps and resources that I use about hacking and reversing stuff.
-- My [blog](https://ander94lakx.github.io), which I use to post about the things I'm doing (mostly in Spanish).
+- My [blog](walkonthebyteside.com), which I use to post about the things I'm doing (mostly in Spanish).
 
 <hr />
 

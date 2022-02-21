@@ -16,15 +16,11 @@ You will find a variety of things like:
 ### Blog Posts 📰
 
 <!--START_SECTION:feed-->
-- [**Cómo sacar tus canciones más escuchadas (o lo que sea) de Spotify**](https://www.walkonthebyteside.com/blog/2022-02-13-spotify-data-top-songs/) 
-
-	>*Estoy con el scrapping muy pesado, lo sé. Esta vez es algo un poco diferente. No es web scrapping al uso, sino un pequeño ejemplo sobre cómo…*
-- [**Cómo automatizar la búsqueda de piso con un bot de Telegram**](https://www.walkonthebyteside.com/blog/2022-02-05-bot-telegram-buscar-piso/) 
-
-	>*Estoy buscando piso y es un proceso de mierda. Hay una cantidad extrañamente escasa de pisos en mi ciudad y los que hay desaparecen…*
-- [**Pwnkit: Vulnerabilidad en Polkit (CVE-2021-4034) en 5 minutos**](https://www.walkonthebyteside.com/blog/2022-01-29-polkit/) 
-
-	>*Otro nuevo CVE de los que han dado que hablar. El CVE-2021-4034 salió a la luz hace unos días y se ha esparcido como la pólvora. No es que…*
+- [***"Cómo sacar tus canciones más escuchadas (o lo que sea) de Spotify"***](https://www.walkonthebyteside.com/blog/2022-02-13-spotify-data-top-songs/)
+- [***"Cómo automatizar la búsqueda de piso con un bot de Telegram"***](https://www.walkonthebyteside.com/blog/2022-02-05-bot-telegram-buscar-piso/)
+- [***"Pwnkit: Vulnerabilidad en Polkit (CVE-2021-4034) en 5 minutos"***](https://www.walkonthebyteside.com/blog/2022-01-29-polkit/)
+- [***"Análisis de malware (I): cómo empezar a analizar malware"***](https://www.walkonthebyteside.com/blog/2022-01-26-malware-analysis-1/)
+- [***"PGP"***](https://www.walkonthebyteside.com/pages/pgp/)
 <!--END_SECTION:feed-->
 
 <!--

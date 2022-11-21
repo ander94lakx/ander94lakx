@@ -23,6 +23,12 @@ You will find a variety of things like:
 - [***"Pwnkit: Vulnerabilidad en Polkit (CVE-2021-4034) en 5 minutos"***](https://ander94lakx.github.io/blog/2022-01-29-polkit/)
 <!--END_SECTION:feed-->
 
+<hr />
+
+### Where else can you follow me?
+- On my [Twitter](https://twitter.com/andergrma) or <a rel="me" href="https://mastodon.social/@andergrma">Mastodon</a>, although I don't post much.
+- On my [Instagram](https://www.instagram.com/andergrma/) (personal stuff and travel photography)
+
 <!--
 
 ### What I stand for here?

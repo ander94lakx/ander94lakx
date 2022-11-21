@@ -26,7 +26,7 @@ You will find a variety of things like:
 <hr />
 
 ### Where else can you follow me?
-- On my [Twitter](https://twitter.com/andergrma) or <a rel="me" href="https://mastodon.social/@andergrma">Mastodon</a>, although I don't post much.
+- On my [Twitter](https://twitter.com/andergrma) or <a rel="nofollow me" href="https://mastodon.social/@andergrma">Mastodon</a>, although I don't post much.
 - On my [Instagram](https://www.instagram.com/andergrma/) (personal stuff and travel photography)
 
 <!--

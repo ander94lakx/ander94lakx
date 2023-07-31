@@ -1,19 +1,19 @@
-### Hi there 👋
+### 👨‍💻 `whoami`
 
 I'm Ander, a Software Engineer, Cybersecurity Consultant and Hacker. I'm insterested in programming and hacking related stuff such as penstesting, reverse engineering, malware, and sysadmin stuff of all kinds.
 
-### What will you find here?
+### 💻 `ls -l ~/Repositories`
 
 You will find a variety of things like:
 
 - Projects and notes that I made during my studies, such as my [Final Year Project](https://github.com/ander94lakx/TFG_Doc) or my [Master's Degree Thesis](https://github.com/ander94lakx/TFM_Doc).
 - Programming projects I'm tinkering with.
 - Scritps and resources that I use about hacking and reversing stuff.
-- My [blog](https://walkonthebyteside.com), which I use to post about the things I'm doing (mostly in Spanish).
+- My [blog](https://walkonthebyteside.com), which I use to post about the things I'm doing (available in english and spanish).
 
 <hr />
 
-### Blog Posts 📰
+ ### 📰 `curl https://www.walkonthebyteside.com`
 
 <!--START_SECTION:feed-->
 - [***"Cómo monitorizar dispositivos bluetooth cercanos con un solo comando"***](https://ander94lakx.github.io/blog/2023-02-15-bluetooth-monitoring-command-linux/)
@@ -25,9 +25,9 @@ You will find a variety of things like:
 
 <hr />
 
-### Where else can you follow me?
-- On my [Twitter](https://twitter.com/andergrma) or <a rel="nofollow me" href="https://mastodon.social/@andergrma">Mastodon</a>, although I don't post much.
-- On my [Instagram](https://www.instagram.com/andergrma/) (personal stuff and travel photography)
+### 🌐 `python3 sherlock andergrma`
+- My [Twitter](https://twitter.com/andergrma) or <a rel="nofollow me" href="https://mastodon.social/@andergrma">Mastodon</a>, although I don't post much.
+- My [Instagram](https://www.instagram.com/andergrma/) (personal stuff and travel photography)
 
 <!--
 

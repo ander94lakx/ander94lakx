@@ -16,11 +16,11 @@ You will find a variety of things like:
  ### 📰 `curl https://www.walkonthebyteside.com`
 
 <!--START_SECTION:feed-->
+- [***"Malware analysis (II) - Basic static analysis: strings and metadata"***](http://walkonthebyteside.com/blog/2024-09-22-malware-analysis-2/)
 - [***"Malware analysis (I) - How to get started in malware analysis"***](http://walkonthebyteside.com/blog/2024-09-15-malware-analysis-1/)
 - [***"The blog is now multilingual"***](http://walkonthebyteside.com/blog/2023-08-19-blog-multilingual/)
 - [***"How to monitor nearby bluetooth devices with a single command"***](http://walkonthebyteside.com/blog/2023-02-15-bluetooth-monitoring-command-linux/)
 - [***"Migrating to Hugo"***](http://walkonthebyteside.com/blog/2022-08-14-blog-update-hugo/)
-- [***"How to get your Top tracks (or whatever info) out of your Spotify account"***](http://walkonthebyteside.com/blog/2022-02-13-spotify-data-top-songs/)
 <!--END_SECTION:feed-->
 
 <hr />
